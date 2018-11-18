@@ -1,2 +1,2 @@
 # wordpress-tema-simple
-A intençao é aprender sobre as funções do wordpress, mas não perder tempo a apresentação do site
+Modelo simples de template, para utilizar na criação de novos temas
